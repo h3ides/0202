@@ -1,4 +1,4 @@
-<div align="center">
+<div align ="center">
   <br />
     <a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank">
       <img src="https://github.com/adrianhajdin/project_html_css_website/assets/151519281/562e0f27-4b93-41cb-a63d-7c50940fc0ad" alt="Project Banner">
@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
   </div>
 
-  <h3 align="center">Sushi Website</h3>
+  <h3 align="center">kukueggs Website</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+      <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
     </div>
 </div>
 
@@ -29,17 +29,15 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository contains the code corresponding to an in-depth tutorial available on this YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+visual learning, this is the perfect resource .
 
 <a href="https://youtu.be/QRrPE9aj3wI?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Develop a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+Develop a website showcasing popular food, trending , and drinks using HTML and CSS with subtle animations.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
@@ -59,29 +57,28 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Rendering HTML through JavaScript**: Rendering HTML through JavaScript using reusable functions, enhancing code efficiency.
 
-👉 **Smooth Animations**: Smooth and subtle animations to enhance the overall user experience, focusing on fluid transitions.
+👉 **Smooth Animations**: Smooth and subtle animations to enhance the overall user experience.
 
-👉 **BEM Method**: Follow the Block Element Modifier (BEM) methodology for naming classes, promoting a clear and maintainable structure.
+👉 **BEM Method**: Follow the Block Element Modifier (BEM) methodology for naming classes.
 
-👉 **Organized File and Folder Structure**: Maintain a well-organized file and folder structure for easy navigation and management of project assets.
+👉 **Organized File and Folder Structure**
+easy navigation and management of project assets.
 
-👉 **Responsive Design**: The application is completely responsive across all devices, employing responsive design techniques such as media queries and fluid layouts.
+👉 **Responsive Design**: The application is completely responsive across all devices, employing responsive design techniques and fluid layouts.
 
-all these while creating the sushi website with,
-* Navigation Bar
-* Creative Hero Section
-* About Us Section
-* Popular Food, Trending Sushi, and Drinks Sections
-* Newsletter Signup and Footer
+all these while creating the website with,
 
+- Navigation Bar
+- Creative Hero Section
+- About Us Section
+- Popular Food, Trending and Drinks Sections
+- contact
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
+Follow these steps to set up the project locally.
 
 **Prerequisites**
-
-Make sure you have the following installed on your machine:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
@@ -90,7 +87,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/project_html_css_website.git
+git clone https://github.com/h3ides/0202.git
 cd project_html_css_website
 ```
 
@@ -124,7 +121,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
   <link rel="icon" type="image/svg+xml" href="/sushi.png" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" type="text/css" href="css/style.css" />
-  <title>Sushiman</title>
+  <title>Kukueggs</title>
 </head>
 
 <body>
@@ -171,18 +168,19 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
     <div class="hero-image">
       <img src="assets/sushi-1.png" alt="sushi-1" data-aos="fade-up" data-aos-anchor-placement="top-bottom" />
       <h2 data-aos="fade-up">
-        日 <br />
-        本 <br />
-        食
+        MA <br />
+        UT <br />
+        AM <br/>
+        US
       </h2>
 
       <div class="hero-image__overlay"></div>
     </div>
     <div class="hero-content">
       <div class="hero-content-info" data-aos="fade-left">
-        <h1>Feel the taste of Japanese foods</h1>
+        <h1>Feel the taste of fresh eggs</h1>
         <p>
-          Feel the taste of the most popular Japanese foods from anywhere and
+          Feel the taste of the most popular kuku foods from anywhere and
           anytime.
         </p>
 
@@ -204,7 +202,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
         <div class="hero-content__review">
           <img src="assets/user.png" alt="user" />
           <p>
-            “This is the best Japanese food delivery service that ever existed.”
+            “This is the best land delivery service that ever existed.”
           </p>
         </div>
       </div>
@@ -231,12 +229,12 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
     </div>
 
     <div class="about-us__content" data-aos="fade-left">
-      <p class="sushi__subtitle">About Us / 私たちに関しては</p>
+      <p class="sushi__subtitle">About Us </p>
       <h3 class="sushi__title">
-        Our mission is to bring true Japanese flavours to you.
+        Our mission is to bring sweet flavours to you.
       </h3>
       <p class="sushi__description">
-        We will continue to provide the experience of Omotenashi, the Japanese
+        We will continue to provide the experience , the freshness
         mindset of hospitality, with our shopping and dining for our
         customers.
       </p>
@@ -247,34 +245,31 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
   <!-- START: popular foods -->
   <section class="popular-foods" id="menu">
     <h2 class="popular-foods__title" data-aos="flip-up">
-      Popular Food / 人気
+      Popular Food
     </h2>
 
     <div class="popular-foods__filters sushi__hide-scrollbar" data-aos="fade-up">
       <button class="popular-foods__filter-btn active">All</button>
       <button class="popular-foods__filter-btn">
         <img src="assets/sushi-9.png" alt="sushi-9" />
-        Sushi
+        fried
       </button>
       <button class="popular-foods__filter-btn">
         <img src="assets/sushi-8.png" alt="sushi-8" />
-        Ramen
+        roasted
       </button>
       <button class="popular-foods__filter-btn">
         <img src="assets/sushi-7.png" alt="sushi-7" />
-        Udon
+        boiled
       </button>
-      <button class="popular-foods__filter-btn">
-        <img src="assets/sushi-6.png" alt="sushi-6" />
-        Danggo
-      </button>
+
       <button class="popular-foods__filter-btn">Others</button>
     </div>
 
     <div class="popular-foods__catalogue" data-aos="fade-up">
       <article class="popular-foods__card">
         <img class="popular-foods__card-image" src="assets/sushi-12.png" alt="sushi-12" />
-        <h4 class="popular-foods__card-title">Chezu Sushi</h4>
+        <h4 class="popular-foods__card-title"> FRY</h4>
 
         <div class="popular-foods__card-details flex-between">
           <div class="popular-foods__card-rating">
@@ -282,37 +277,24 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
             <p>4.8</p>
           </div>
 
-          <p class="popular-foods__card-price">$21.00</p>
+          <p class="popular-foods__card-price">Kes 210.00</p>
         </div>
       </article>
 
       <!-- active big white card -->
       <article class="popular-foods__card active-card">
         <img class="popular-foods__card-image" src="assets/sushi-11.png" alt="sushi-11" />
-        <h4 class="popular-foods__card-title">Originale Sushi</h4>
+        <h4 class="popular-foods__card-title">nuggets</h4>
 
         <div class="popular-foods__card-details flex-between">
           <div class="popular-foods__card-rating">
             <img src="assets/star.svg" alt="star" />
             <p>4.8</p>
-          </div>
 
-          <p class="popular-foods__card-price">$21.00</p>
-        </div>
+
       </article>
 
-      <article class="popular-foods__card">
-        <img class="popular-foods__card-image" src="assets/sushi-10.png" alt="sushi-10" />
-        <h4 class="popular-foods__card-title">Ramen Legendo</h4>
 
-        <div class="popular-foods__card-details flex-between">
-          <div class="popular-foods__card-rating">
-            <img src="assets/star.svg" alt="star" />
-            <p>4.8</p>
-          </div>
-
-          <p class="popular-foods__card-price">$21.00</p>
-        </div>
       </article>
     </div>
 
@@ -327,11 +309,11 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
     <!-- START: trending sushi -->
     <section class="trending-sushi">
       <div class="trending__content" data-aos="fade-right">
-        <p class="sushi__subtitle">What’s Trending / トレンド</p>
+        <p class="sushi__subtitle">What’s Trending /</p>
 
-        <h3 class="sushi__title">Japanese Sushi</h3>
+        <h3 class="sushi__title">Rolex</h3>
         <p class="sushi__description">
-          Feel the taste of the most delicious Sushi here.
+          Feel the fluffed chapos.
         </p>
 
         <ul class="trending__list flex-between">
@@ -339,38 +321,15 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
             <div class="trending__icon flex-center">
               <img src="assets/check.svg" alt="check" />
             </div>
-            <p>Make Sushi</p>
+            <p>Make curry </p>
           </li>
           <li>
             <div class="trending__icon flex-center">
               <img src="assets/check.svg" alt="check" />
             </div>
-            <p>Nigiri Sushi</p>
+            <p>pasua</p>
           </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Oshizushi</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Temaki Sushi</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Uramaki Sushi</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Inari Sushi</p>
-          </li>
+
         </ul>
       </div>
 
@@ -409,52 +368,14 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
       </div>
 
       <div class="trending__content" data-aos="fade-left">
-        <p class="sushi__subtitle">What’s Trending / トレンド</p>
+        <p class="sushi__subtitle">What’s Trending</p>
 
-        <h3 class="sushi__title">Japanese Drinks</h3>
+        <h3 class="sushi__title">Broth</h3>
         <p class="sushi__description">
-          Feel the taste of most delicious Japanese drinks here.
+          Feel the taste .
         </p>
 
-        <ul class="trending__list flex-between">
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Oruncha</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Ofukucha</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Sakura Tea</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Kombu-cha</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Aojiru</p>
-          </li>
-          <li>
-            <div class="trending__icon flex-center">
-              <img src="assets/check.svg" alt="check" />
-            </div>
-            <p>Mugicha</p>
-          </li>
-        </ul>
-      </div>
+      <div>
     </section>
     <!-- END: trending drinks -->
   </section>
@@ -465,7 +386,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
       Get offers straight <br />
       to your inbox
     </h2>
-    <p data-aos="fade-up">Sign up for the Sushiman newsletter</p>
+    <p data-aos="fade-up">contact</p>
 
     <div class="subscription__form" data-aos="fade-up">
       <input type="text" placeholder="Enter email address" />
@@ -559,7 +480,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 </details>
 
-
 <details>
 <summary><code>script.js</code></summary>
 
@@ -569,15 +489,14 @@ import "aos/dist/aos.css";
 
 // init AOS animation
 AOS.init({
-    duration: 1000,
-    offset: 100,
+  duration: 1000,
+  offset: 100,
 });
 
 // the additional code you saw in the video will not be needed :)
 ```
 
 </details>
-
 
 <details>
 <summary><code>style.css</code></summary>
@@ -630,7 +549,6 @@ a {
   text-decoration: none;
   color: inherit;
 }
-
 
 .flex-center {
   display: flex;
@@ -748,7 +666,6 @@ a {
   }
 }
 /* END: about us media queries */
-
 
 /* START: header media querie */
 @media screen and (max-width: 900px) {
@@ -907,7 +824,6 @@ a {
 ```
 
 </details>
-
 
 <details>
 <summary><code>trending.css</code></summary>
@@ -1073,20 +989,15 @@ a {
   right: -2.5px;
   bottom: 12%;
 }
-```
-
 </details>
-
 
 ## <a name="links">🔗 Links</a>
 
-Assets used in the project are [here](https://drive.google.com/file/d/1feqXd1mPKjdQDjd3l4hV_JcX-l1mJRor/view)
+png[here](https://drive.google.com/file/d/1feqXd1mPKjdQDjd3l4hV_JcX-l1mJRor/view)
 
 ## <a name="more">🚀 More</a>
 
 **Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
 
 <a href="https://jsmastery.pro/next14" target="_blank">
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
@@ -1097,10 +1008,10 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 
 **Accelerate your professional journey with the Expert Training program**
 
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
 <a href="https://www.jsmastery.pro/masterclass" target="_blank">
 <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
 </a>
 
 #
+
+```
